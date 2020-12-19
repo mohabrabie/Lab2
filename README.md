@@ -30,4 +30,4 @@ some text
 
 * [MIT](http://www.Mit.com) 
 
-![A dog picture](https://github.com/dog.jpg)
+![A dog picture](/dog.jpg)
